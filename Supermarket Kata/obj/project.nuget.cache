@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z8y0GnNNMRypuvzTiYm/mVbU/VYt7pYXdrC61vyUmNo8x7BKyXbxw1CtGvS8/zaJZskn/JPk+N1iDYztBHY6pw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\James\\source\\repos\\coding-challenges\\Supermarket Kata\\Supermarket Kata.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\James\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

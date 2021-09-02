@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fgafhDJRxgCJqvbgxiXwaIz0Jqg/IrzyRZUGU3ZmuaKBsMEhY0NQVWChjzL0bkVeKR6Bsig8fHWbp17IaSJ10g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\James\\Source\\Repos\\coding-challenges\\Robot Wars\\Robot Wars.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\James\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
